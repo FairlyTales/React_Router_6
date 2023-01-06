@@ -1,3 +1,1 @@
-# React Router 6
-
-Checking out react router version 6
+# Deep dive in the React Router 6
